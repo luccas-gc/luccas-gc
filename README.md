@@ -32,5 +32,5 @@
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccas-cunha/)
-[![Gmail](https://img.shields.io/badge/-luccasgc.09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccasgc.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/-luccasgc.09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccasgc.09@gmail.com)
 
