@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Olá, Me chamo Luccas 👋</strong></h1>
 
 <p align="center">
-  🎓 Desenvolvedor em formação | Apaixonado por tecnologia
+  🎓 Desenvolvedor em formação
 </p>
 
 ---
