@@ -12,7 +12,7 @@
 - 📍 Sou do estado de São Paulo
 - 🎓 Estudante de Ciência da Computação pelo Mackenzie
 - 🎓 Técnico em Multimídia pela Etec
-- 🎯 Estudando constantemente tecnologias para aplicações **Back-End**
+- 🎯 Explorando o mundo **Back-End** e **Engenharia de Dados**
 - 💡 Gosto de criar diversos projetos que me desafiem e me façam evoluir como desenvolvedor, além da diversão, também fica o aprendizado
 
 ---
