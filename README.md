@@ -8,7 +8,7 @@
 
 ## <strong> 👨‍💻 Sobre mim </strong>
 
-- 🙋 Tenho 18 Anos
+- 🙋 Tenho 19 Anos
 - 📍 Sou do estado de São Paulo
 - 🎓 Estudante de Ciência da Computação pelo Mackenzie
 - 🎓 Técnico em Multimídia pela Etec
