@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Olá, Me chamo Luccas 👋</strong></h1>
 
 <p align="center">
-  🎓 Desenvolvedor em formação
+  Data Analytics Intern at Bradesco
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 📍 Sou do estado de São Paulo
 - 🎓 Estudante de Ciência da Computação pelo Mackenzie
 - 🎓 Técnico em Multimídia pela Etec
-- 🎯 Explorando o mundo **Back-End** e **Engenharia de Dados**
+- 🎯 Explorando o mundo **Back-End** e de **Dados**
 - 💡 Gosto de criar diversos projetos que me desafiem e me façam evoluir como desenvolvedor, além da diversão, também fica o aprendizado
 
 ---
@@ -21,11 +21,9 @@
 
 <p>
 <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-SQL-07405E?style=for-the-badge&logo=database&logoColor=white">
+<img src="https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/-POO-ec407a?style=for-the-badge">
 </p>
 
 ---
