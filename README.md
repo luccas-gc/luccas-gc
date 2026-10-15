@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Olá, Me chamo Luccas 👋</strong></h1>
 
 <p align="center">
-  Data Analytics Intern at Bradesco
+  Estudante de Ciência da Computação | Dev em formação
 </p>
 
 ---
